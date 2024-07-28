@@ -1,0 +1,9 @@
+{
+    "token": "TOKEN",
+    "prefix": "+",
+    "admin": [
+        "BOT_SAHİBİ",
+        "BOT_SAHİBİ2"
+    ],
+    "weatherApiKey": ""
+}

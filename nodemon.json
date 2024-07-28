@@ -1,0 +1,4 @@
+{
+    "watch": ["nexis.js", "commands/", "events/", "config/"],
+    "ext": "js,json"
+  }
